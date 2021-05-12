@@ -1,4 +1,4 @@
-# weather-box-dht22
+# DHT22
 
 
 the first one: humidity
